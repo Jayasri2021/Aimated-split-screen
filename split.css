@@ -1,10 +1,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
 
 :root {
-  --left-bg-color: rgba(155, 154, 207, 0.7);
+  --left-bg-color: rgba(43, 43, 43, 0.8);
   --right-bg-color: rgba(43, 43, 43, 0.8);
-  --left-btn-hover-color: rgba(152, 151, 213, 0.7);
-  --right-btn-hover-color: rgba(155, 154, 207, 0.7);
+  --left-btn-hover-color: rgba(43, 43, 43, 0.8);
+  --right-btn-hover-color: rgba(43, 43, 43, 0.8);
   --hover-width: 75%;
   --other-width: 25%;
   --speed: 1000ms;
